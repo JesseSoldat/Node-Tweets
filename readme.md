@@ -1,0 +1,1 @@
+nodemon main.js --ignore db.json
